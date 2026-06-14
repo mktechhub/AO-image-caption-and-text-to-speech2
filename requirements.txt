@@ -1,0 +1,6 @@
+streamlit
+numpy
+tensorflow
+gdown
+matplotlib
+gtts
